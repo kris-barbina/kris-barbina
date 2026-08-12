@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://gitlab.com/kris.barbina"><img alt="GitLab" src="https://img.shields.io/badge/code%20lives%20on-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"></a>
   <a href="https://1dh.ru/"><img alt="DataHUB" src="https://img.shields.io/badge/product-DataHUB-2E7D32?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/kristina-barbina-0912b1294/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kristina-barbina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kris.barbina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/KristinaBarbina"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 </p>
@@ -66,4 +66,4 @@ The architecture started in 2020 as an integration layer for a university-wide a
 
 Backend and integration engineering (Java, Spring), integration/solution architect roles — remote, contract or full-time.
 
-**[kris.barbina@gmail.com](mailto:kris.barbina@gmail.com)** · [Telegram](https://t.me/KristinaBarbina) · [LinkedIn](https://www.linkedin.com/in/kristina-barbina-0912b1294/) · [GitLab](https://gitlab.com/kris.barbina)
+**[kris.barbina@gmail.com](mailto:kris.barbina@gmail.com)** · [Telegram](https://t.me/KristinaBarbina) · [LinkedIn](https://www.linkedin.com/in/kristina-barbina/) · [GitLab](https://gitlab.com/kris.barbina)
